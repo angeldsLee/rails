@@ -1,7 +1,7 @@
- ---
- layout: default
- title: Package Control
- ---
+---
+layout: default
+title: Package Control
+---
  
 install after sublime immediately,
 
