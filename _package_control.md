@@ -1,9 +1,4 @@
----
-layout: default
-title: Package Control
----
-
-hi,lds
+ 
 
 install after sublime immediately,
 
