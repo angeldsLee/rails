@@ -1,10 +1,8 @@
  ---
  layout: default
- title: Package COntrol
+ title: Package Control
  ---
  
- 
-
 install after sublime immediately,
 
 	/Application/Sublime\ Text.app/Contents/Windows/Packages
