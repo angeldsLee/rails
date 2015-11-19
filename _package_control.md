@@ -1,3 +1,8 @@
+ ---
+ layout: default
+ title: Package COntrol
+ ---
+ 
  
 
 install after sublime immediately,
