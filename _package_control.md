@@ -20,3 +20,5 @@ well,well,well, is this ok now???
 ok now
 
 ok
+
+test open the browser page automatically
