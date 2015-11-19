@@ -1,7 +1,9 @@
 ---
 layout: default
-title: use package control to install extending packages
+title: title
 ---
+
+hi,lds
 
 install after sublime immediately,
 
